@@ -1,5 +1,11 @@
 # Bubble Sort
 
+## Introduction
+
+Bubble Sort is a simple sort, if not a particularly efficient one, and thus makes a great starting point for our sorting journey.
+
+The function `bubble_sort` has been started for you in `bubble_sort.py`, along with an example test case. That is the only file you'll need to touch for this lab.
+
 ## Algorithm Outline
 
 - In the outer loop, perform one pass of the whole list, comparing pairs, for EACH number in your list.
